@@ -1,0 +1,54 @@
+.content-login {
+    min-height: 700px;
+    background: url('../images/content-login.jpg') center;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+.content-login h2{
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase
+}
+.form-login {
+    padding: 40px;
+    width: 50%;
+    border: 2px solid #16a085;
+    margin: 0px auto;
+    color: #fff;
+    background-color: rgba(0, 0, 0,0.5);
+    display: block;
+}
+.tabGroup {
+    list-style:none;
+    padding:0;
+    margin:0 0 40px 0;
+}
+.tab a {
+    width: 50%;
+    background: #a0b3b0;
+    float: left;
+    padding: 20px;
+    margin-bottom: 40px;
+    color: #ffffff;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration:none; 
+}
+.tab-content > div:last-child {
+  display:none;
+}
+.list-inline {
+    margin-left: 0px;
+}
+.active a{
+    background: #16a085;
+}
+.error {
+    color: #ffffff;
+    border: 2px solid #e74c3c;
+    background-color: rgba(255, 0, 0, 0.2);
+}

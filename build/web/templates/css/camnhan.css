@@ -1,0 +1,32 @@
+.camnhan {
+	margin-bottom: 150px;
+}
+.camnhan .item {
+    background: #FFF;
+    margin-bottom: 15px;
+    padding: 10px;
+    min-height: 210px;
+    border:  2px solid #a20000;
+}
+.camnhan .imga {
+    display: block;
+    height: 1px;
+    padding-bottom: 60%;
+    overflow: hidden;
+}
+.camnhan .name {
+    margin-top: 15px;
+    border-bottom: 2px solid #a20000;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: arial;
+    color: #333333;
+}
+.camnhan .desc {
+    padding-right: 10px;
+    margin-bottom: 10px;
+}

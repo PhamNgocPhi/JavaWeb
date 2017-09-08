@@ -1,0 +1,29 @@
+.content-course {
+	padding-bottom: 150px;
+	border-bottom: 1px solid black;
+}
+.imgContent img {
+	width: 100%;
+}
+.ulKhoahoc {
+	font-weight: 600;
+	text-transform: uppercase;
+	border-bottom: 1px solid black;
+}
+.ulKhoahoc .khName {
+	border-right: 1px solid #34495e;
+}
+.ulKhoahoc .khName:nth-child(6) {
+	border-right: none;
+}
+.khName p {
+	margin: 20px auto;
+}
+.khActive {
+	color: #ffffff;
+	background-image: linear-gradient(100deg, #723362, #9d223c);
+    background-color: #9d223c;
+}
+.ttkh {
+	display: none;
+}
